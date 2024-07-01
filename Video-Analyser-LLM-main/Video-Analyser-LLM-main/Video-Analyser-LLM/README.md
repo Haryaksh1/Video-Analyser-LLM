@@ -1,9 +1,9 @@
 # Hey there, YouTube fans! Feeling bored watching long videos? The next time why don’t you try scrolling down to the next step?
 
-With **VidQuest** you a have an assistant in your quest of understanding, the most complicated, lengthy, informative videos on YouTube. Apply super cool AI technology to videos: in this way, they can be easily explained and you can come across something you might not have paid attention to otherwise. 
-The LLM-app is designed with YouTube surfers in mind. It has the potential to help both students and content-creators, and can also substantially save their time and resources.                                 
 Readme (README.md) file has been **written in a manner that can be familiar to customers with no technical background**, thus making it accessible to masses.  It can be directly used by customers(D2C). 
-Key features comprise of (but are not limited to):Uses Pathway’s LLM App features to build LLM(Large Language Model), OpenAI API Embeddings and Chat Completion, Generate AI assistant responses
+
+Now you a have an assistant in your quest of understanding, the most complicated, lengthy, informative videos on YouTube. Apply super cool AI technology to videos: in this way, they can be easily explained and you can come across something you might not have paid attention to otherwise. 
+The LLM-app is designed with YouTube surfers in mind. It has the potential to help both students and content-creators, and can also substantially save their time and resources.      
 
 https://github.com/Haryaksh1/Video-Analyser-LLM/assets/154970822/07831032-63e7-4837-9ac1-6df5d5f22d1c
 
