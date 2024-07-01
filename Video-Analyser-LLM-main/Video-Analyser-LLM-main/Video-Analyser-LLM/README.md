@@ -1,6 +1,6 @@
 # Hey there, YouTube fans! Feeling bored watching long videos? The next time why don’t you try scrolling down to the next step?
 
-Readme (README.md) file has been **written in a manner that can be familiar to customers with no technical background**, thus making it accessible to masses.  It can be directly used by customers(D2C). 
+Readme (README.md) file has been **curated in a manner such that it can be familiar to customers with no technical background**, thus making it accessible to masses.  It can be directly used by customers(D2C). 
 
 Now you a have an assistant in your quest of understanding, the most complicated, lengthy, informative videos on YouTube. Apply super cool AI technology to videos: in this way, they can be easily explained and you can come across something you might not have paid attention to otherwise. 
 The LLM-app is designed with YouTube surfers in mind. It has the potential to help both students and content-creators, and can also substantially save their time and resources.      
