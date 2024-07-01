@@ -1,9 +1,8 @@
 # Hey there, YouTube fans! Feeling bored watching long videos? The next time why don’t you try scrolling down to the next step?
 
-With **VidQuest** you a have an assistant in your quest of understanding, the most complicated, lengthy, informative videos on YouTube. Apply super cool AI technology to videos: in this way, they can be easily explained and you can come across something you would not have paid attention to otherwise. 
+With **VidQuest** you a have an assistant in your quest of understanding, the most complicated, lengthy, informative videos on YouTube. Apply super cool AI technology to videos: in this way, they can be easily explained and you can come across something you might not have paid attention to otherwise. 
 
-
-https://github.com/Haryaksh1/test/assets/154970822/fede5132-6268-445c-b9aa-65995581c497
+https://github.com/Haryaksh1/Video-Analyser-LLM/assets/154970822/07831032-63e7-4837-9ac1-6df5d5f22d1c
 
 
 ## Key Points:
